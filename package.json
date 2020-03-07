@@ -1,0 +1,19 @@
+{
+  "name": "quinto",
+  "version": "1.0.0",
+  "description": "Plays the original game of Quinto from 1964",
+  "main": "quinto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelVoght/Quinto.git"
+  },
+  "author": "Michael V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelVoght/Quinto/issues"
+  },
+  "homepage": "https://github.com/MichaelVoght/Quinto#readme"
+}
