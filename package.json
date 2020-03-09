@@ -2,7 +2,7 @@
   "name": "quinto",
   "version": "1.0.0",
   "description": "Plays the original game of Quinto from 1964",
-  "main": "quinto.js",
+  "main": "/src/quinto.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
